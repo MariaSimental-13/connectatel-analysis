@@ -20,7 +20,7 @@ Evaluar el comportamiento de los clientes de ConnectaTel, empresa de telecomunic
 7. Insight ejecutivo para stakeholders
 
 ## Cómo ejecutar
-1. Abre el notebook en [Google Colab](https://colab.research.google.com/)
+1. Abre el notebook en [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1hB_QKRSqYDX8BqYNezRgRaGEdsfJZDfn))
 2. Carga los datasets en `/datasets/`
 3. Ejecuta las celdas en orden de arriba a abajo
 
